@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Alola!"
+date:   2019-04-25 00:00:00 +0800
+categories: overview
+---
+
+In the 1st industrial revolution (~1700s), we saw mechanical production, railroads and steam power.  
+In the 2nd industrial revolution (~1800s), we saw mass production, electricity and assembly lines.  
+In the 3rd industrial revolution (~1900s), we saw automated production, electronics and computers.
+
+Welcome to the 4th industrial revolution. :)
+
+We’re in the midst of it, but like any other macro-level changes in life, you don’t realise it on a day-to-day basis but it becomes obvious on hindsight.
+
+Artificial intelligence. Big Data. Robotics. There’s more to come. 
+
+What is needed to gain a good understanding of the modern world? What are the elements that set us apart from our past and the ones that are likely to guide us to understanding our world a little better? That’s the question that this blog tries to answer. Does it matter? Perhaps not and there’s no way for us to know yet. But we’ll still do it anyway since doing so provides direct and tangible benefits to us...
