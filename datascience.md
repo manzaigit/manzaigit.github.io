@@ -13,6 +13,10 @@ There are already a lot of data science articles in the web, but this list of ar
 - Data pipeline
 - [AI](/datascience/ai)
 
+Always start small and iterate. 
+Write to CSV files, save your outputs
+Write test cases 
+
 After all, machine learning only plays a small part 
 
 AI Transformation Playbook How to lead your company into the AI era - Landing AI
@@ -24,6 +28,8 @@ AI Transformation Playbook How to lead your company into the AI era - Landing AI
 ## Getting Data
 - Meta-Sim: Learning to Generate Synthetic Datasets
 - Object Annotation with Curve-GCN
+- Data Augmentation
+
 
 ## Challenges with real-life data
 e.g. Healthcare
@@ -56,6 +62,9 @@ Handling class imbalance
 * https://arxiv.org/abs/1805.03901
 * https://imbalanced-learn.readthedocs.io/en/stable/
 
+
+Debugging / Improving
+- Use deconvolutional nets to analyse CNN and see what can be improved (e.g. increase filter size, reduce stride)
 
 ## Reporting
 

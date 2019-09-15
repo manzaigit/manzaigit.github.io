@@ -5,7 +5,10 @@ permalink: /brains/
 order: 1
 ---
 
-It's all about brains! 
+Neuroscience is a
+
+
+When drawing insights from brain images using ML techniques, make sure n is not too small. 
 
 1. Anatomy
 Macro to micro

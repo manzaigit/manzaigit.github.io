@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Hola"
+title:  "Sandwiched"
 date:   2019-07-22 00:00:00 +0800
 categories: overview
 ---
 
-Heyhey
+Somehow I feel that we’re the generation that are in between traditional ML and DL. 
+There’s probably a lot we don’t know about traditional ML as compared to our 'seniors'. How many of the 'younger generation' can claim to have a good understanding of both? Are they both important? Should we just learn DL and extend it? 
+They’ll probably tell us to know some ML, since they know about it 
+
+Started at a bad time when tensorflow was hard to crack, caffe was a pain to set up 
