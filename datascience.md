@@ -52,6 +52,13 @@ References
 
 ## Modelling
 
+Statistical software / ML models often have default parameters set
+e.g. sklearn, LR has L2 regularisation (@ C=1)
+
+Feature Scaling: Many ML algorithms use Euclidian distance -> need feature scaling if order of magnitude varies significantly 
+- z-score, mean normalisation [-1,1], min-max [0,1] 
+
+
 - Universal Approximation Theorem (George Cybenko in 1988 showed that *any* function can be approximated to arbitrary accuracy by a NN with 3 layers (2 hidden, 1 output), works in the condition that the number of hidden units is unbounded)
 
 [1812.10156] Deep neural networks are biased towards simple functions
@@ -61,6 +68,8 @@ Handling class imbalance
 * SkewFit by Pong et al?
 * https://arxiv.org/abs/1805.03901
 * https://imbalanced-learn.readthedocs.io/en/stable/
+
+Overfitting
 
 
 Debugging / Improving
@@ -74,5 +83,11 @@ D3.js is interesting but a little too low-level (it's your best bet if you want 
 
 - Online learning
 - Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift
+
+## Career 
+* https://evykassirer.github.io/playing-the-internship-game/
+* https://twitter.com/KateWassum/status/1065404037883846656
+
+
 
 Last updated: 25 July 2019
