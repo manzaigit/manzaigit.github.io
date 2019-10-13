@@ -26,7 +26,15 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+
+        <p>WOTD: <a id="dynlink">{{- site.description | escape -}}</a> :)</p>
+
+        <script>
+            var words = ["combination", "union", "merger", "blend", "mixture", "mingling", "compound", "fusion", "marriage", "weave", "coalescence", "synthesis", "composite", "composition", "concoction", "amalgam"];
+            var today = new Date();
+            var word = words[Math.floor(today.getDate() / 31 * words.length)];
+            document.getElementById("dynlink").setAttribute("href", "https://www.google.com/search?q=" + word);
+        </script>
       </div>
     </div>
 
