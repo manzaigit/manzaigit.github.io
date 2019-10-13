@@ -13,10 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The New Wave
+title: The New Wave 🤖 ♻️ 🧠
 # email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Dictated musings, sometimes amusing. Occasionally punny, momentarily funny. Possibly helping you to find your towel :)
+description: Putting things together #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: randcogitation
@@ -28,9 +27,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# header_pages: 
-#   - computers/index.html
-#   - about/index.html 
+header_pages: 
+  # https://github.com/jekyll/minima/issues/253
+  - foresights.md
+  - about.md
+  - ai.md
+  - and.md
+  - neuroscience.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
