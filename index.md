@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+*Welcome!* 
+* Posts are presented here in chronological order.
+* Compiled posts can be found in the sub-sections above.
