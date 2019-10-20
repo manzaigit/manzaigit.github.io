@@ -20,6 +20,7 @@ There are already a lot of data science articles in the web, but this list of ar
 * should think before coding, need a standardised way to do things
 * plan data structures properly, think about what you might possibly need
 * easier to standardize data than to code for each scenario 
+* Watch out for python package version! need to update
 
 
 After all, machine learning only plays a small part 
