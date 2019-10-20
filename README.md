@@ -71,3 +71,4 @@ Useful but Unused
 ## Todo
 * Google analytics
 * Script to check for dead links
+* Post preview on first page
