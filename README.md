@@ -68,6 +68,8 @@ Other useful links
 Useful but Unused
 * https://github.com/github/personal-website
 
+Latex support: https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
+
 ## Todo
 * Google analytics
 * Script to check for dead links
