@@ -9,7 +9,8 @@ I'm Yihao, a 1st year PhD student in Nanyang Technological University, Singapore
 
 My key research interests are within the intersection of Neuroscience and Computer Science, specifically **Multimodal Neuroimaging Analysis** and **Multiview Representation Learning**. 
 
-Beyond academic interests, I like going for random walks, attending concerts and engaging in some futures thinking. I like putting ideas together (especially from different disciplines) and I do have a habit of summarizing what I've observed and learnt - that's why this blog exists today! <br><br>
+Beyond academic interests, I like going for random walks, attending concerts and engaging in some futures thinking. I like putting ideas together (especially from different disciplines) and I do have a habit of summarizing what I've observed and learnt - that's why this blog exists today! 
+<br><br>
 
 --- 
 <br>
