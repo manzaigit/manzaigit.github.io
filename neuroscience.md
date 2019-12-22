@@ -14,6 +14,9 @@ order: 5
 
 2. What data can we get? 
 
+    Various groups are creating new imaging techniques to get higher resolutions  
+    - e.g. Massachusetts General Hospital, 100-micron resolution in a whole brain, 7T
+
     When drawing insights from brain images using ML techniques, make sure number of subjects (or at least, samples) is not too small. 
 
     Multi-site scans can be [inconsistent](https://www.spectrumnews.org/news/in-brain-imaging-studies-of-autism-location-may-alter-results/)
