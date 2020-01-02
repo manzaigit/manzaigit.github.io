@@ -9,6 +9,15 @@ There are two main ways to view the integration of AI and Neuroscience.
 * AI
 * Neuroscience-inspired AI 
 
+How do we go one step further to make machines learn more effectively? 
+1. Much progress in CV and NLP are unimodal in nature - we seek to achieve higher accuracy. With these models, we can
+2. However, there are areas where classifers are not doing well
+
+Humans (with matured brains) are, in many occasions, 
+We learn to process information simultaneously from multiple modalities: vision, hearing, touch (texture and heat) and these information are likely to be combined 
+
+Although we don't fully understand how the brain process these information such that 'understanding' happens, ...
+
 At present, 
 
 
