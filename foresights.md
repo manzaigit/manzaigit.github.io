@@ -13,5 +13,5 @@ Forecasts and predictions of the future are often not accurate. However, we stil
 
 One hypothesis is that for many problems we face in life, there are just too many factors to consider. We don't have enough priors to make a precise estimation that stands a good chance to be correct.
 
-Instead of aiming to get a perfect prediction, it might be more effective (at least for now) to consider the various scenarios that are possible, i.e. scenario planning.
+Instead of aiming to get a perfect prediction, it might be more effective (at least for now) to consider the various scenarios that are most likely to happen and prepare for them, i.e. scenario planning, how governments [simulate potential crises](https://www.nytimes.com/2020/03/19/us/politics/trump-coronavirus-outbreak.html).
 
