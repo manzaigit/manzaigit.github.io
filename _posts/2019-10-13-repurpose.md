@@ -5,13 +5,14 @@ date:   2019-10-13 13:00:00 +0800
 categories: tech
 ---
 
-tl;dr: If your desktop / laptop breaks down, it doesn't always mean that everything is broken (it's usually because of 1 critical component). Out of all the components, one of the more useful parts that can still be used (without going through too much trouble) is your **internal** hard disk. You can repurpose it with a few tweaks and get additional storage space!  
+tl;dr: If your desktop / laptop breaks down, it doesn't always mean that everything is broken (it's usually because of 1 critical component). Out of all the components, one of the useful parts that can still be used (without going through too much trouble) is your **internal** hard disk. You can repurpose it with a few tweaks and get additional storage space!  
 
 Caveats: Some laptops aren't easy to disassemble and will require [special screwdrivers](https://en.wikipedia.org/wiki/Torx) but most of them are easy. Money spent to buy these equipments < value you will unlock by reusing parts that still work. :) 
 <br><br>
 
 ---
 <br>
+
 ### Backstory
 
 Recently, my all-in-one desktop had issues with starting up and I accidentally killed the hard disk by switching off the power while it was booting up... it just crashes everytime it tries to start (I'm guessing the disk got scratched and some parts that were essential for the booting process got corrupted - a few of my files were corrupted too) but luckily I could still access the command prompt in the Windows Recovery Environment. But [transferring files from a hard disk to another via the command prompt (with the xcopy command) was a huge pain](https://support.microsoft.com/en-us/help/323007/how-to-copy-a-folder-to-another-folder-and-retain-its-permissions) especialy when my hard disk was bigger than my external HDD, had to transfer things to and fro another laptop multiple times.
