@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://manzaigit.github.io/sitemap.xml
